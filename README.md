@@ -6,14 +6,16 @@ The starting page of the built application will provide details of the task.
 
 ## Running the development server
 
-Ensure you have [Node JS](https://nodejs.org) installed. 
+1. Ensure you have [Node JS](https://nodejs.org) installed. 
 Node 6.9.x and npm 3.x.x are required to run this project. 
 We recommend installing Node 8.10.0.
 
-Run `npm install` and wait for the dependencies to install. \
+2. Install Angular CLI globally, using `npm install -g @angular/cli`.
+
+3. Run `npm install` and wait for the dependencies to install. \
 If you encounter errors, ensure that you're running a compatible version of Node JS.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+4. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
 The app will automatically reload if you change any of the source files.
 
 ## Submitting your solution
