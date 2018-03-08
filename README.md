@@ -1,27 +1,29 @@
-# InterviewTest
+# NEO Interview Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+In order to complete this test, you will need to run the project locally. 
+Please follow the instructions below to build and run the project. 
+The starting page of the built application will provide details of the task.
 
-## Development server
+## Running the development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ensure you have [Node JS](https://nodejs.org) installed. 
+Node 6.9.x and npm 3.x.x are required to run this project. 
+We recommend installing Node 8.10.0.
 
-## Code scaffolding
+Run `npm install` and wait for the dependencies to install. \
+If you encounter errors, ensure that you're running a compatible version of Node JS.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+The app will automatically reload if you change any of the source files.
 
-## Build
+## Submitting your solution
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+When you have completed this task, please compress your `src` folder into a zip file
+and send it to mh@neoftl.com.
+You may be asked to present your solution at interview and we will discuss the approach you took.
 
-## Running unit tests
+## Useful links
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* [Node JS](https://nodejs.org) version 8.10.0
+* [Angular](https://angular.io/docs) version 5.2.0
+* [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2
